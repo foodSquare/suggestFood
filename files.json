@@ -8,7 +8,12 @@
 		"source/controllers/photo/photoCtrl.js",
 		"source/controllers/search/searchCtrl.js"
 	],
-	"css": [],
+	"css": [
+		"source/scss/stylesheets/ie.css",
+		"source/scss/stylesheets/print.css",
+		"source/scss/stylesheets/screen.css",
+		"source/scss/stylesheets/main.css"
+	],
 	"jsLibs": [
 		"source/vendor/angular/angular.js",
 		"source/vendor/angular-animate/angular-animate.js",
@@ -22,5 +27,8 @@
 		"source/vendor/ionic/css/ionic.css",
 		"source/vendor/ionic-material/dist/ionic.material.css",
 		"source/vendor/robotodraft/robotodraft.css"
+	],
+	"img": [
+		"source/scss/img/restaurant.svg"
 	]
 }

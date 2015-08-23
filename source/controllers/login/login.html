@@ -1,28 +1,27 @@
-<ion-modal-view>
-	<ion-header-bar>
-		<h1 class="title">Login</h1>
-		<div class="buttons">
-		  	<button class="button button-clear" ng-click="closeLogin()">
-		  		Close
-		  	</button>
-		</div>
-  	</ion-header-bar>
-  	
-  	<ion-content>
-		<form ng-submit="doLogin()">
-	  		<div class="list">
-				<label class="item item-input">
-		  			<span class="input-label">Username</span>
-		  			<input type="text" ng-model="loginData.username">
-				</label>
-				<label class="item item-input">
-		  			<span class="input-label">Password</span>
-		  			<input type="password" ng-model="loginData.password">
-				</label>
-				<label class="item">
-		  			<button class="button button-block button-positive" type="submit">Log in</button>
-				</label>
-	  		</div>
-		</form>
-  	</ion-content>
-</ion-modal-view>
+<ion-view view-title="Login" align-title="left">
+    <ion-content class="foodsquare-login-background">
+
+        <div class="foodsquare-login-header hero no-header flat">
+            <div class="content">
+                <div class="foodsquare-icon"></div>
+                <h1>FoodSquare</h1>
+            </div>
+        </div>
+
+        <div class="foodsquare-login-body padding text-align-center">
+            <h4>
+                Login with
+            </h4>
+            <div class="social-login">
+                <button ng-click="login.checkAuthentication()" class="button button-positive button-border icon-left ion-social-facebook">
+                    Facebook
+                </button>
+            </div>    
+            <h5>
+                or <a href="" title="">Sign up</a>
+            </h5>
+        </div>
+        
+    </ion-content>
+</ion-view>
+

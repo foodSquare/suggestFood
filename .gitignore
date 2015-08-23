@@ -6,3 +6,4 @@ platforms/
 plugins/
 vendor/
 www/
+.sass_cache/

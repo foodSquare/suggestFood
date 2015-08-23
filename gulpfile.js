@@ -5,61 +5,53 @@ var concat = require('gulp-concat');
 var sass = require('gulp-sass');
 var minifyCss = require('gulp-minify-css');
 var rename = require('gulp-rename');
-var sh = require('shelljs');
+var shell = require('shelljs');
 
 var files = require('./files.json');
 
 
 var paths = {
- sass: ['./scss/**/*.scss']
+ sass: ['./source/scss/sass/**/*.scss']
 };
 
 //gulp.task('default', ['sass']);
-gulp.task('default', ["copy-index", "js", "copy-views", "copy-fonts-ionic", "jsLibs", "cssLibs"], function(){
-  // watch for HTML changes
+gulp.task('default', ["copy-index", "js", "sass","copy-views", "copy-fonts-ionic", "jsLibs", "cssLibs", "copy-img"], function(){
   
-  gulp.watch('./source/index.html', ['copy-index']);
-  gulp.watch('./source/**/*.html', function() {
-    gulp.run('copy-index');
-  });
-
-  gulp.watch('./source/controllers/**/*.html', function() {
-    gulp.run('copy-views');
-  });
- 
-  // watch for JS changes
-  gulp.watch('./source/**/*.js', function() {
-    //gulp.run('jshint', 'scripts');
-    gulp.run('js');
-  });
-
-  // watch for CSS changes
-  gulp.watch('./src/styles/*.css', function() {
-    gulp.run('styles');
-  });
-
-  // watch files.json
-  gulp.watch('./files.json', function() {
-    gulp.run('default');
-  });
+});
+//Watchers
+// watch for HTML changes
+gulp.watch('./source/index.html', ['copy-index']);
+gulp.watch('./source/controllers/**/*.html', function() {
+  gulp.run('copy-views');
+});
+// watch files.json
+gulp.watch('./files.json', function() {
+  gulp.run('default');
+});
+gulp.watch('./gulpfile.js', function() {
+  gulp.run('default');
+});
+// watch for JS changes
+gulp.watch('./source/**/*.js', function() {
+  //gulp.run('jshint', 'scripts');
+  gulp.run('js');
+});
+// watch for CSS changes
+gulp.watch('./source/**/*.scss', function() {
+  shell.exec('compass compile source/scss/');
+  gulp.run('concat-css');
 });
 
-
-
+//Tasks
+gulp.task('concat-css', function() {
+  return gulp.src(files.css)
+    .pipe(concat('foodSquare.css'))
+    .pipe(gulp.dest('./www/'));
+});
 gulp.task('sass', function(done) {
-  gulp.src('./scss/ionic.app.scss')
-    .pipe(sass({
-      errLogToConsole: true
-    }))
-    .pipe(gulp.dest('./www/css/'))
-    .pipe(minifyCss({
-      keepSpecialComments: 0
-    }))
-    .pipe(rename({ extname: '.min.css' }))
-    .pipe(gulp.dest('./www/css/'))
-    .on('end', done);
+  shell.exec('compass compile source/scss/');
+  gulp.run('concat-css');
 });
-
 gulp.task('copy-index', function() {
     gulp.src('./source/index.html')
     .pipe(gulp.dest('./www/'));
@@ -68,6 +60,10 @@ gulp.task('copy-views', function() {
    gulp.src('./source/controllers/**/*.html')
    .pipe(gulp.dest('./www/views/'));
 });
+gulp.task('copy-img', function() {
+   gulp.src(files.img)
+   .pipe(gulp.dest('./www/img/'));
+});
 gulp.task('copy-fonts-ionic', function() {
    gulp.src('./source/vendor/ionic/fonts/*.*')
    .pipe(gulp.dest('./www/fonts/'));
@@ -75,7 +71,6 @@ gulp.task('copy-fonts-ionic', function() {
    gulp.src('./source/vendor/robotodraft/fonts/**/*')
    .pipe(gulp.dest('./www/libs/fonts/'));
 });
-
 gulp.task('js', function() {
   return gulp.src(files.js)
     .pipe(concat('foodSquare.js'))
@@ -91,19 +86,15 @@ gulp.task('cssLibs', function(){
     .pipe(concat('libs.css'))
     .pipe(gulp.dest('./www/libs/'));
 });
-
 gulp.task('watch', function() {
   gulp.watch(paths.sass, ['sass']);
 });
-
-
 gulp.task('install', ['git-check'], function() {
   return bower.commands.install()
     .on('log', function(data) {
       gutil.log('bower', gutil.colors.cyan(data.id), data.message);
     });
 });
-
 gulp.task('git-check', function(done) {
   if (!sh.which('git')) {
     console.log(
