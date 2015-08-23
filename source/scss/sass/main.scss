@@ -1,0 +1,69 @@
+/*Variables*/
+$color-title: #F5F5F5;
+
+/*Global classes*/
+.text-align-center {
+	text-align: center;
+}
+.width-all-space {
+	width: 100%;
+}
+
+/*LOGIN*/
+.foodsquare-icon {
+	height: 75px;
+    z-index: 10;
+    background-image: url(img/restaurant.svg);
+    /* background-repeat: no-repeat; */
+    -webkit-mask: url(img/restaurant.svg) no-repeat 50% 50%;
+    mask: url(img/restaurant.svg) no-repeat 50% 50%;
+}
+.foodsquare-login-header h1{
+	color: $color-title;
+	font-family: cursive;
+    font-size: 400%;
+}
+.foodsquare-login-background {
+	background: #D84F4F;
+}
+.foodsquare-login-body {
+	margin-top: 40%;
+}
+.foodsquare-login-successmsg .popup-body{
+	text-align: center;
+}
+
+/*Menu*/
+.foodsquare-menu-header {
+	background: red;
+}
+.foodsquare-menu-infouser {
+	& .list {
+		margin-bottom: 200px;
+	}
+
+	& div[name="foodsquare-menu-user-avatar"] {
+		font-size: 60px;
+	    width: 35%;
+	    padding: 20px;
+	    float: left;
+	}
+	& div[name="foodsquare-menu-user-body"] {
+		float: right;
+    	width: 60%;
+	}
+	& > div {
+		height: 100%;
+	}
+}
+
+.foodsquare-menu-left-avatar {
+	
+}
+.foodsquare-menu-left-body {
+	float: right;
+    width: 50%;
+}
+.foodsquare-menu-leftside-title {
+
+}
