@@ -1,9 +1,11 @@
 <ion-view view-title="Food List" ng-cont>
   <ion-content>
-    <ion-list>
-      <ion-item ng-repeat="item in foodList" href="#/app/detail/{{item.id}}">
-        {{item.title}}
-      </ion-item>
-    </ion-list>
+  		<div class="list">
+	    	<a class="item item-avatar" href="#/app/detail/{{item.id}}" ng-repeat="item in foodList" >
+	      		<img src="./img/iconRestaurant.png">
+	      		<h2>{{item.title}}</h2>
+	      		<p>{{item.description}}</p>
+	    	</a>
+		</div>
   </ion-content>
 </ion-view>

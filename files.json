@@ -29,6 +29,7 @@
 		"source/vendor/robotodraft/robotodraft.css"
 	],
 	"img": [
-		"source/scss/img/restaurant.svg"
+		"source/scss/img/restaurant.svg",
+		"source/scss/img/iconRestaurant.png"
 	]
 }

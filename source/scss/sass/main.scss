@@ -1,6 +1,6 @@
 /*Variables*/
 $color-title: #F5F5F5;
-
+$menu-background-color: #D84F4F;
 /*Global classes*/
 .text-align-center {
 	text-align: center;
@@ -12,17 +12,27 @@ $color-title: #F5F5F5;
 /*LOGIN*/
 .foodsquare-icon {
 	height: 75px;
+	width: 75px;
+	margin-left: 40%;
+    margin-right: 60%;
     z-index: 10;
     background-image: url(img/restaurant.svg);
-    /* background-repeat: no-repeat; */
-    -webkit-mask: url(img/restaurant.svg) no-repeat 50% 50%;
-    mask: url(img/restaurant.svg) no-repeat 50% 50%;
+     background-repeat: no-repeat; 
 }
-.foodsquare-login-header h1{
-	color: $color-title;
-	font-family: cursive;
-    font-size: 400%;
-}
+.foodsquare-login-header {
+	text-align: center;
+	height: 250px !important;
+	& h1 {
+		color: $color-title;
+		font-family: cursive;
+	    font-size: 400%;
+	}
+
+	& div {
+		color: $color-title;
+		/*margin-top: 50px;*/
+	}
+} 
 .foodsquare-login-background {
 	background: #D84F4F;
 }
@@ -35,7 +45,20 @@ $color-title: #F5F5F5;
 
 /*Menu*/
 .foodsquare-menu-header {
-	background: red;
+	border-color: #e42012;
+    background-color: $menu-background-color !important;
+    min-height: 150px;
+    & .header-item {
+    	text-align: center !important;
+    }
+}
+.foodsquare-menu-body {
+	top: 120px;
+}
+.foodsquare-menu-listitem {
+	& .icon {
+		font-size: 18px;
+	}
 }
 .foodsquare-menu-infouser {
 	& .list {
