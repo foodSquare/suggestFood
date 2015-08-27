@@ -1,5 +1,5 @@
 (function(){
-	app.controller('ListCtrl', ['$scope', function($scope) {
+	app.controller('RestaurantCtrl', ['$scope', function($scope) {
 		$scope.foodList = [
 	  	{ 
 			title: 'Meals 1', 

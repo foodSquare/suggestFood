@@ -12,7 +12,7 @@
 					okText: 'Go!'
 				});
 				alertPopup.then(function(res) {
-					$location.path('/app/list');
+					$location.path('/app/restaurant');
 				});
 			},
 			checkAuthentication: function () {

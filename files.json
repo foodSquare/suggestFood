@@ -2,7 +2,10 @@
 	"js": [
 		"source/app.js",
 		"source/shared/cameraFactory.js",
-		"source/controllers/list/listCtrl.js",
+		"source/controllers/challenge/challengeCtrl.js",
+		"source/controllers/restaurant/restaurantCtrl.js",
+		"source/controllers/pictures/picturesCtrl.js",
+		"source/controllers/settings/settingsCtrl.js",
 		"source/controllers/login/loginCtrl.js",
 		"source/controllers/menu/menuCtrl.js",
 		"source/controllers/photo/photoCtrl.js",

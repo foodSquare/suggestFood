@@ -1,17 +1,17 @@
 /*Variables*/
 /*Global classes*/
-/* line 5, ../sass/main.scss */
+/* line 10, ../sass/main.scss */
 .text-align-center {
   text-align: center;
 }
 
-/* line 8, ../sass/main.scss */
+/* line 13, ../sass/main.scss */
 .width-all-space {
   width: 100%;
 }
 
 /*LOGIN*/
-/* line 13, ../sass/main.scss */
+/* line 18, ../sass/main.scss */
 .foodsquare-icon {
   height: 75px;
   width: 75px;
@@ -22,82 +22,119 @@
   background-repeat: no-repeat;
 }
 
-/* line 22, ../sass/main.scss */
+/* line 27, ../sass/main.scss */
 .foodsquare-login-header {
   text-align: center;
-  height: 250px !important;
+  margin-top: 30%;
+  /*height: 250px !important;*/
 }
-/* line 25, ../sass/main.scss */
+@media screen and (max-height: 480px) {
+  /* line 27, ../sass/main.scss */
+  .foodsquare-login-header {
+    margin-top: 25%;
+  }
+}
+@media screen and (max-height: 570px) {
+  /* line 27, ../sass/main.scss */
+  .foodsquare-login-header {
+    margin-top: 30%;
+  }
+}
+@media screen and (min-height: 660px) {
+  /* line 27, ../sass/main.scss */
+  .foodsquare-login-header {
+    margin-top: 35%;
+  }
+}
+/* line 41, ../sass/main.scss */
 .foodsquare-login-header h1 {
   color: #F5F5F5;
   font-family: cursive;
   font-size: 400%;
 }
-/* line 31, ../sass/main.scss */
+/* line 47, ../sass/main.scss */
 .foodsquare-login-header div {
   color: #F5F5F5;
   /*margin-top: 50px;*/
 }
 
-/* line 36, ../sass/main.scss */
+/* line 52, ../sass/main.scss */
 .foodsquare-login-background {
   background: #D84F4F;
 }
 
-/* line 39, ../sass/main.scss */
+/* line 55, ../sass/main.scss */
 .foodsquare-login-body {
-  margin-top: 40%;
+  /*margin-top: 40%;*/
+}
+@media screen and (max-height: 480px) {
+  /* line 55, ../sass/main.scss */
+  .foodsquare-login-body {
+    margin-top: 20%;
+  }
+}
+@media screen and (max-height: 570px) {
+  /* line 55, ../sass/main.scss */
+  .foodsquare-login-body {
+    margin-top: 25%;
+  }
+}
+@media screen and (min-height: 660px) {
+  /* line 55, ../sass/main.scss */
+  .foodsquare-login-body {
+    margin-top: 30%;
+  }
 }
 
-/* line 42, ../sass/main.scss */
+/* line 67, ../sass/main.scss */
 .foodsquare-login-successmsg .popup-body {
   text-align: center;
 }
 
 /*Menu*/
-/* line 47, ../sass/main.scss */
+/* line 72, ../sass/main.scss */
 .foodsquare-menu-header {
   border-color: #e42012;
   background-color: #D84F4F !important;
   min-height: 150px;
 }
-/* line 51, ../sass/main.scss */
+/* line 76, ../sass/main.scss */
 .foodsquare-menu-header .header-item {
   text-align: center !important;
 }
 
-/* line 55, ../sass/main.scss */
+/* line 80, ../sass/main.scss */
 .foodsquare-menu-body {
   top: 120px;
 }
 
-/* line 59, ../sass/main.scss */
+/* line 84, ../sass/main.scss */
 .foodsquare-menu-listitem .icon {
   font-size: 18px;
 }
 
-/* line 64, ../sass/main.scss */
+/* line 89, ../sass/main.scss */
 .foodsquare-menu-infouser .list {
   margin-bottom: 200px;
 }
-/* line 68, ../sass/main.scss */
+/* line 93, ../sass/main.scss */
 .foodsquare-menu-infouser div[name="foodsquare-menu-user-avatar"] {
   font-size: 60px;
   width: 35%;
   padding: 20px;
   float: left;
 }
-/* line 74, ../sass/main.scss */
+/* line 99, ../sass/main.scss */
 .foodsquare-menu-infouser div[name="foodsquare-menu-user-body"] {
   float: right;
   width: 60%;
 }
-/* line 78, ../sass/main.scss */
+/* line 103, ../sass/main.scss */
 .foodsquare-menu-infouser > div {
   height: 100%;
 }
 
-/* line 86, ../sass/main.scss */
+/* line 111, ../sass/main.scss */
 .foodsquare-menu-left-body {
   float: right;
   width: 50%;

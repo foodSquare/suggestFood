@@ -1,6 +1,11 @@
+
 /*Variables*/
 $color-title: #F5F5F5;
 $menu-background-color: #D84F4F;
+$size-iphone6-height: 660px;
+$size-iphone5-height: 570px;
+$size-iphone4-height: 480px;
+
 /*Global classes*/
 .text-align-center {
 	text-align: center;
@@ -21,7 +26,18 @@ $menu-background-color: #D84F4F;
 }
 .foodsquare-login-header {
 	text-align: center;
-	height: 250px !important;
+	margin-top: 30%;
+	/*height: 250px !important;*/
+	
+	@media screen and ( max-height: $size-iphone4-height){
+	    margin-top: 25%;
+	}
+	@media screen and ( max-height: $size-iphone5-height){
+	    margin-top: 30%;
+	}
+	@media screen and ( min-height: $size-iphone6-height){
+	    margin-top: 35%;
+	}
 	& h1 {
 		color: $color-title;
 		font-family: cursive;
@@ -37,7 +53,16 @@ $menu-background-color: #D84F4F;
 	background: #D84F4F;
 }
 .foodsquare-login-body {
-	margin-top: 40%;
+	/*margin-top: 40%;*/
+	@media screen and ( max-height: $size-iphone4-height){
+	    margin-top: 20%;
+	}
+	@media screen and ( max-height: $size-iphone5-height){
+	    margin-top: 25%;
+	}
+	@media screen and ( min-height: $size-iphone6-height){
+	    margin-top: 30%;
+	}
 }
 .foodsquare-login-successmsg .popup-body{
 	text-align: center;

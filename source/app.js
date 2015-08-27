@@ -67,12 +67,42 @@ app = angular.module('suca', ['ionic', 'ionic-material'])
 	  	}
 	})
 
-	.state('app.list', {
-	  	url: '/list',
+	.state('app.challenge', {
+	  	url: '/challenge',
 	  	views: {
 			'menuContent': {
-		  		templateUrl: 'views/list/list.html',
-		  		controller: 'ListCtrl'
+		  		templateUrl: 'views/challenge/challenge.html',
+		  		controller: 'ChallengeCtrl'
+			}
+	  	}
+	})
+
+	.state('app.restaurant', {
+	  	url: '/restaurant',
+	  	views: {
+			'menuContent': {
+		  		templateUrl: 'views/restaurant/restaurant.html',
+		  		controller: 'RestaurantCtrl'
+			}
+	  	}
+	})
+
+	.state('app.picture', {
+	  	url: '/picture',
+	  	views: {
+			'menuContent': {
+		  		templateUrl: 'views/pictures/pictures.html',
+		  		controller: 'PicturesCtrl'
+			}
+	  	}
+	})
+
+	.state('app.settings', {
+	  	url: '/settings',
+	  	views: {
+			'menuContent': {
+		  		templateUrl: 'views/settings/settings.html',
+		  		controller: 'SettingsCtrl'
 			}
 	  	}
 	});

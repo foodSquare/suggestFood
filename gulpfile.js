@@ -18,6 +18,9 @@ var paths = {
 gulp.task('default', ["copy-index", "js", "sass","copy-views", "copy-fonts-ionic", "jsLibs", "cssLibs", "copy-img"], function(){
   
 });
+
+shell.exec('rm -r www/');
+
 //Watchers
 // watch for HTML changes
 gulp.watch('./source/index.html', ['copy-index']);
