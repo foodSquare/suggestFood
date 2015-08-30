@@ -1,0 +1,117 @@
+
+/*Variables*/
+$color-title: #F5F5F5;
+$menu-background-color: #D84F4F;
+$size-iphone6-height: 660px;
+$size-iphone5-height: 570px;
+$size-iphone4-height: 480px;
+
+/*Global classes*/
+.text-align-center {
+	text-align: center;
+}
+.width-all-space {
+	width: 100%;
+}
+
+/*LOGIN*/
+.foodsquare-icon {
+	height: 75px;
+	width: 75px;
+	margin-left: 40%;
+    margin-right: 60%;
+    z-index: 10;
+    background-image: url(img/restaurant.svg);
+     background-repeat: no-repeat; 
+}
+.foodsquare-login-header {
+	text-align: center;
+	margin-top: 30%;
+	/*height: 250px !important;*/
+	
+	@media screen and ( max-height: $size-iphone4-height){
+	    margin-top: 25%;
+	}
+	@media screen and ( max-height: $size-iphone5-height){
+	    margin-top: 30%;
+	}
+	@media screen and ( min-height: $size-iphone6-height){
+	    margin-top: 35%;
+	}
+	& h1 {
+		color: $color-title;
+		font-family: cursive;
+	    font-size: 400%;
+	}
+
+	& div {
+		color: $color-title;
+		/*margin-top: 50px;*/
+	}
+} 
+.foodsquare-login-background {
+	background: #D84F4F;
+}
+.foodsquare-login-body {
+	/*margin-top: 40%;*/
+	@media screen and ( max-height: $size-iphone4-height){
+	    margin-top: 20%;
+	}
+	@media screen and ( max-height: $size-iphone5-height){
+	    margin-top: 25%;
+	}
+	@media screen and ( min-height: $size-iphone6-height){
+	    margin-top: 30%;
+	}
+}
+.foodsquare-login-successmsg .popup-body{
+	text-align: center;
+}
+
+/*Menu*/
+.foodsquare-menu-header {
+	border-color: #e42012;
+    background-color: $menu-background-color !important;
+    min-height: 150px;
+    & .header-item {
+    	text-align: center !important;
+    }
+}
+.foodsquare-menu-body {
+	top: 120px;
+}
+.foodsquare-menu-listitem {
+	& .icon {
+		font-size: 18px;
+	}
+}
+.foodsquare-menu-infouser {
+	& .list {
+		margin-bottom: 200px;
+	}
+
+	& div[name="foodsquare-menu-user-avatar"] {
+		font-size: 60px;
+	    width: 35%;
+	    padding: 20px;
+	    float: left;
+	}
+	& div[name="foodsquare-menu-user-body"] {
+		float: right;
+    	width: 60%;
+	}
+	& > div {
+		height: 100%;
+	}
+}
+
+.foodsquare-menu-left-avatar {
+	
+}
+.foodsquare-menu-left-body {
+	float: right;
+    width: 50%;
+}
+.foodsquare-menu-leftside-title {
+
+}

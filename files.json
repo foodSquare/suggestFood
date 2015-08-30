@@ -1,0 +1,38 @@
+{
+	"js": [
+		"source/app.js",
+		"source/shared/cameraFactory.js",
+		"source/controllers/challenge/challengeCtrl.js",
+		"source/controllers/restaurant/restaurantCtrl.js",
+		"source/controllers/pictures/picturesCtrl.js",
+		"source/controllers/settings/settingsCtrl.js",
+		"source/controllers/login/loginCtrl.js",
+		"source/controllers/menu/menuCtrl.js",
+		"source/controllers/photo/photoCtrl.js",
+		"source/controllers/search/searchCtrl.js"
+	],
+	"css": [
+		"source/scss/stylesheets/ie.css",
+		"source/scss/stylesheets/print.css",
+		"source/scss/stylesheets/screen.css",
+		"source/scss/stylesheets/main.css"
+	],
+	"jsLibs": [
+		"source/vendor/angular/angular.js",
+		"source/vendor/angular-animate/angular-animate.js",
+		"source/vendor/angular-sanitize/angular-sanitize.js",
+		"source/vendor/angular-ui-router/release/angular-ui-router.js",
+		"source/vendor/ionic/js/ionic.js",
+		"source/vendor/ionic/js/ionic-angular.js",
+		"source/vendor/ionic-material/dist/ionic.material.js"
+	],
+	"cssLibs": [
+		"source/vendor/ionic/css/ionic.css",
+		"source/vendor/ionic-material/dist/ionic.material.css",
+		"source/vendor/robotodraft/robotodraft.css"
+	],
+	"img": [
+		"source/scss/img/restaurant.svg",
+		"source/scss/img/iconRestaurant.png"
+	]
+}
