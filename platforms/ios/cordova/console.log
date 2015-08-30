@@ -1,0 +1,237 @@
+2015-08-01 18:21:20.618 foodSquare[5285:94484] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/57EDD127-3E86-4250-AD58-56F819AC3E17/Library/Cookies/Cookies.binarycookies
+2015-08-01 18:21:20.715 foodSquare[5285:94484] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-01 18:21:20.716 foodSquare[5285:94484] Multi-tasking -> Device: YES, App: YES
+2015-08-01 18:21:20.717 foodSquare[5285:94484] Unlimited access to network resources
+2015-08-01 18:21:20.787 foodSquare[5285:94484] [CDVTimer][keyboard] 0.051022ms
+2015-08-01 18:21:20.801 foodSquare[5285:94484] [CDVTimer][splashscreen] 14.145970ms
+2015-08-01 18:21:20.801 foodSquare[5285:94484] [CDVTimer][TotalPluginStartup] 14.748037ms
+2015-08-01 18:21:21.011 foodSquare[5285:94484] Resetting plugins due to page load.
+2015-08-01 18:21:21.123 foodSquare[5285:94484] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/9BA3A869-5417-4A27-B23F-C1E0BCC17ECE/foodSquare.app/www/index.html#/app/playlists
+2015-08-01 19:00:43.528 foodSquare[6797:112777] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/AB9085B7-EAF5-4DEA-9BC3-BF340B6167A2/Library/Cookies/Cookies.binarycookies
+2015-08-01 19:00:43.611 foodSquare[6797:112777] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-01 19:00:43.612 foodSquare[6797:112777] Multi-tasking -> Device: YES, App: YES
+2015-08-01 19:00:43.613 foodSquare[6797:112777] Unlimited access to network resources
+2015-08-01 19:00:43.705 foodSquare[6797:112777] [CDVTimer][keyboard] 0.060022ms
+2015-08-01 19:00:43.719 foodSquare[6797:112777] [CDVTimer][splashscreen] 14.718950ms
+2015-08-01 19:00:43.720 foodSquare[6797:112777] [CDVTimer][TotalPluginStartup] 15.126050ms
+2015-08-01 19:00:43.782 foodSquare[6797:112777] Resetting plugins due to page load.
+2015-08-01 19:00:44.041 foodSquare[6797:112777] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/E126D31A-0ACC-41DA-B8DE-A2027311B742/foodSquare.app/www/index.html#/
+2015-08-01 19:12:11.094 foodSquare[8271:119495] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/0D8790E3-5038-4CF2-892B-A704F0C44EF3/Library/Cookies/Cookies.binarycookies
+2015-08-01 19:12:11.245 foodSquare[8271:119495] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-01 19:12:11.245 foodSquare[8271:119495] Multi-tasking -> Device: YES, App: YES
+2015-08-01 19:12:11.248 foodSquare[8271:119495] Unlimited access to network resources
+2015-08-01 19:12:11.338 foodSquare[8271:119495] [CDVTimer][keyboard] 0.048041ms
+2015-08-01 19:12:11.352 foodSquare[8271:119495] [CDVTimer][splashscreen] 13.761997ms
+2015-08-01 19:12:11.352 foodSquare[8271:119495] [CDVTimer][TotalPluginStartup] 14.115036ms
+2015-08-01 19:12:11.414 foodSquare[8271:119495] Resetting plugins due to page load.
+2015-08-01 19:12:11.593 foodSquare[8271:119495] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/0C5A172B-5DD2-4086-8346-9097AFBEA99C/foodSquare.app/www/index.html
+2015-08-01 19:12:43.439 foodSquare[9595:121631] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/16AC874E-EEE5-4C64-87E1-B19DB2EDEF0A/Library/Cookies/Cookies.binarycookies
+2015-08-01 19:12:43.579 foodSquare[9595:121631] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-01 19:12:43.579 foodSquare[9595:121631] Multi-tasking -> Device: YES, App: YES
+2015-08-01 19:12:43.581 foodSquare[9595:121631] Unlimited access to network resources
+2015-08-01 19:12:43.665 foodSquare[9595:121631] [CDVTimer][keyboard] 0.072956ms
+2015-08-01 19:12:43.679 foodSquare[9595:121631] [CDVTimer][splashscreen] 13.278008ms
+2015-08-01 19:12:43.679 foodSquare[9595:121631] [CDVTimer][TotalPluginStartup] 13.659000ms
+2015-08-01 19:12:43.734 foodSquare[9595:121631] Resetting plugins due to page load.
+2015-08-01 19:12:43.897 foodSquare[9595:121631] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/906DCE8C-5947-4289-90EA-71454A18EEEB/foodSquare.app/www/index.html
+2015-08-01 19:14:01.817 foodSquare[10922:124116] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/C9C1025B-15A7-4748-9C54-DE26BB64E990/Library/Cookies/Cookies.binarycookies
+2015-08-01 19:14:01.973 foodSquare[10922:124116] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-01 19:14:01.973 foodSquare[10922:124116] Multi-tasking -> Device: YES, App: YES
+2015-08-01 19:14:01.975 foodSquare[10922:124116] Unlimited access to network resources
+2015-08-01 19:14:02.066 foodSquare[10922:124116] [CDVTimer][keyboard] 0.048995ms
+2015-08-01 19:14:02.080 foodSquare[10922:124116] [CDVTimer][splashscreen] 14.221013ms
+2015-08-01 19:14:02.081 foodSquare[10922:124116] [CDVTimer][TotalPluginStartup] 14.594972ms
+2015-08-01 19:14:02.148 foodSquare[10922:124116] Resetting plugins due to page load.
+2015-08-01 19:14:02.325 foodSquare[10922:124116] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/54611A35-7BA9-44E7-A721-C74DDB1A6E8E/foodSquare.app/www/index.html
+2015-08-01 19:15:09.287 foodSquare[12247:126542] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/D7EB4B83-069E-4074-B616-0F54EE308CBA/Library/Cookies/Cookies.binarycookies
+2015-08-01 19:15:09.431 foodSquare[12247:126542] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-01 19:15:09.431 foodSquare[12247:126542] Multi-tasking -> Device: YES, App: YES
+2015-08-01 19:15:09.433 foodSquare[12247:126542] Unlimited access to network resources
+2015-08-01 19:15:09.521 foodSquare[12247:126542] [CDVTimer][keyboard] 0.050962ms
+2015-08-01 19:15:09.533 foodSquare[12247:126542] [CDVTimer][splashscreen] 11.943996ms
+2015-08-01 19:15:09.533 foodSquare[12247:126542] [CDVTimer][TotalPluginStartup] 12.243986ms
+2015-08-01 19:15:09.592 foodSquare[12247:126542] Resetting plugins due to page load.
+2015-08-01 19:15:09.895 foodSquare[12247:126542] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/C767D97F-67DB-41C6-92AB-F92C442091F3/foodSquare.app/www/index.html#/
+2015-08-01 19:15:33.706 foodSquare[12247:126542] Resetting plugins due to page load.
+2015-08-01 19:15:33.711 foodSquare[12247:126542] Failed to load webpage with error: Frame load interrupted
+2015-08-01 19:15:35.717 foodSquare[12247:126542] Resetting plugins due to page load.
+2015-08-01 19:15:35.718 foodSquare[12247:126542] Failed to load webpage with error: Frame load interrupted
+2015-08-01 19:16:45.382 foodSquare[12247:127016] Terminating since there is no system app.
+2015-08-02 18:49:57.628 foodSquare[15401:327842] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/B1D0CC0F-C876-4DA6-859B-FAF7DDACC7C5/Library/Cookies/Cookies.binarycookies
+2015-08-02 18:49:57.788 foodSquare[15401:327842] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-02 18:49:57.789 foodSquare[15401:327842] Multi-tasking -> Device: YES, App: YES
+2015-08-02 18:49:57.800 foodSquare[15401:327842] Unlimited access to network resources
+2015-08-02 18:49:58.098 foodSquare[15401:327842] [CDVTimer][keyboard] 0.047982ms
+2015-08-02 18:49:58.277 foodSquare[15401:327842] [CDVTimer][splashscreen] 178.880990ms
+2015-08-02 18:49:58.277 foodSquare[15401:327842] [CDVTimer][TotalPluginStartup] 179.248989ms
+2015-08-02 18:49:58.401 foodSquare[15401:327842] Resetting plugins due to page load.
+2015-08-02 18:49:58.703 foodSquare[15401:327842] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/ACD46113-D639-4583-99CD-DE84B7389ECB/foodSquare.app/www/index.html#/home
+2015-08-03 12:46:43.552 foodSquare[16486:389968] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/38D0C6DF-D41E-4E21-BC8A-85E36614F571/Library/Cookies/Cookies.binarycookies
+2015-08-03 12:46:43.735 foodSquare[16486:389968] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-03 12:46:43.735 foodSquare[16486:389968] Multi-tasking -> Device: YES, App: YES
+2015-08-03 12:46:43.749 foodSquare[16486:389968] Unlimited access to network resources
+2015-08-03 12:46:44.016 foodSquare[16486:389968] [CDVTimer][keyboard] 0.119984ms
+2015-08-03 12:46:44.140 foodSquare[16486:389968] [CDVTimer][splashscreen] 124.625981ms
+2015-08-03 12:46:44.141 foodSquare[16486:389968] [CDVTimer][TotalPluginStartup] 125.133991ms
+2015-08-03 12:46:44.259 foodSquare[16486:389968] Resetting plugins due to page load.
+2015-08-03 12:46:44.604 foodSquare[16486:389968] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/ACF75874-77EA-44AC-A47A-0541EECE19FC/foodSquare.app/www/index.html#/home
+2015-08-03 12:47:06.382 foodSquare[16486:389968] Resetting plugins due to page load.
+2015-08-03 12:47:06.405 foodSquare[16486:389968] Failed to load webpage with error: Frame load interrupted
+2015-08-03 12:47:11.527 foodSquare[16486:389968] Resetting plugins due to page load.
+2015-08-03 12:47:11.550 foodSquare[16486:389968] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:32.768 foodSquare[17236:420640] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/D5D5752C-C9E4-48DA-8CB3-7EFFBB192AA0/Library/Cookies/Cookies.binarycookies
+2015-08-03 13:56:32.857 foodSquare[17236:420640] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-03 13:56:32.857 foodSquare[17236:420640] Multi-tasking -> Device: YES, App: YES
+2015-08-03 13:56:32.859 foodSquare[17236:420640] Unlimited access to network resources
+2015-08-03 13:56:32.952 foodSquare[17236:420640] [CDVTimer][keyboard] 0.079989ms
+2015-08-03 13:56:32.971 foodSquare[17236:420640] [CDVTimer][splashscreen] 18.801987ms
+2015-08-03 13:56:32.971 foodSquare[17236:420640] [CDVTimer][TotalPluginStartup] 19.192994ms
+2015-08-03 13:56:33.035 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:33.312 foodSquare[17236:420640] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/1321969F-3399-4541-8E78-FB4F93EDA1B5/foodSquare.app/www/index.html#/home
+2015-08-03 13:56:37.042 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:37.043 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:38.620 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:38.624 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:39.397 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:39.402 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:40.147 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:40.171 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:43.530 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:43.535 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:44.304 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:44.308 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:44.767 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:44.772 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:45.172 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:45.176 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:45.559 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:45.562 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:46.256 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:46.259 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:46.617 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:46.622 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:47.341 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:47.342 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:47.593 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:47.594 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:56:48.317 foodSquare[17236:420640] Resetting plugins due to page load.
+2015-08-03 13:56:48.318 foodSquare[17236:420640] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:57:36.642 foodSquare[17468:421937] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/E1AA878F-A1D0-4E76-8B9D-E2DA9B7AC9D9/Library/Cookies/Cookies.binarycookies
+2015-08-03 13:57:36.744 foodSquare[17468:421937] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-03 13:57:36.744 foodSquare[17468:421937] Multi-tasking -> Device: YES, App: YES
+2015-08-03 13:57:36.747 foodSquare[17468:421937] Unlimited access to network resources
+2015-08-03 13:57:36.833 foodSquare[17468:421937] [CDVTimer][keyboard] 0.048995ms
+2015-08-03 13:57:36.847 foodSquare[17468:421937] [CDVTimer][splashscreen] 14.349997ms
+2015-08-03 13:57:36.847 foodSquare[17468:421937] [CDVTimer][TotalPluginStartup] 14.654040ms
+2015-08-03 13:57:36.905 foodSquare[17468:421937] Resetting plugins due to page load.
+2015-08-03 13:57:37.155 foodSquare[17468:421937] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/D184DA9D-60A0-4B6B-9C85-E4E6EF5A38CA/foodSquare.app/www/index.html#/home
+2015-08-03 13:57:39.869 foodSquare[17468:421937] Resetting plugins due to page load.
+2015-08-03 13:57:39.893 foodSquare[17468:421937] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:57:42.721 foodSquare[17468:421937] Resetting plugins due to page load.
+2015-08-03 13:57:42.742 foodSquare[17468:421937] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:57:45.068 foodSquare[17468:421937] Resetting plugins due to page load.
+2015-08-03 13:57:45.092 foodSquare[17468:421937] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:58:08.640 foodSquare[17468:421937] Resetting plugins due to page load.
+2015-08-03 13:58:08.666 foodSquare[17468:421937] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:58:15.688 foodSquare[17468:421937] Resetting plugins due to page load.
+2015-08-03 13:58:15.692 foodSquare[17468:421937] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:58:17.146 foodSquare[17468:421937] Resetting plugins due to page load.
+2015-08-03 13:58:17.173 foodSquare[17468:421937] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:58:56.058 foodSquare[17706:423434] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/3250FB7B-AE87-46BC-90F6-B01DFE9F7DF5/Library/Cookies/Cookies.binarycookies
+2015-08-03 13:58:56.149 foodSquare[17706:423434] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-03 13:58:56.149 foodSquare[17706:423434] Multi-tasking -> Device: YES, App: YES
+2015-08-03 13:58:56.151 foodSquare[17706:423434] Unlimited access to network resources
+2015-08-03 13:58:56.242 foodSquare[17706:423434] [CDVTimer][keyboard] 0.074029ms
+2015-08-03 13:58:56.257 foodSquare[17706:423434] [CDVTimer][splashscreen] 15.112996ms
+2015-08-03 13:58:56.257 foodSquare[17706:423434] [CDVTimer][TotalPluginStartup] 15.540957ms
+2015-08-03 13:58:56.316 foodSquare[17706:423434] Resetting plugins due to page load.
+2015-08-03 13:58:56.587 foodSquare[17706:423434] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/7AD411BA-7B7C-47DC-8A34-09A56182B95C/foodSquare.app/www/index.html#/home
+2015-08-03 13:58:59.596 foodSquare[17706:423434] Resetting plugins due to page load.
+2015-08-03 13:58:59.617 foodSquare[17706:423434] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:59:04.363 foodSquare[17706:423434] Resetting plugins due to page load.
+2015-08-03 13:59:04.392 foodSquare[17706:423434] Failed to load webpage with error: Frame load interrupted
+2015-08-03 13:59:06.714 foodSquare[17706:423434] Resetting plugins due to page load.
+2015-08-03 13:59:06.742 foodSquare[17706:423434] Failed to load webpage with error: Frame load interrupted
+2015-08-04 15:00:15.184 foodSquare[21050:641889] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/EB81AB61-216B-40A9-8393-9AFBD981CDC6/Library/Cookies/Cookies.binarycookies
+2015-08-04 15:00:15.338 foodSquare[21050:641889] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-04 15:00:15.339 foodSquare[21050:641889] Multi-tasking -> Device: YES, App: YES
+2015-08-04 15:00:15.350 foodSquare[21050:641889] Unlimited access to network resources
+2015-08-04 15:00:15.499 foodSquare[21050:641889] [CDVTimer][keyboard] 0.052035ms
+2015-08-04 15:00:15.599 foodSquare[21050:641889] [CDVTimer][splashscreen] 100.600958ms
+2015-08-04 15:00:15.599 foodSquare[21050:641889] [CDVTimer][TotalPluginStartup] 101.171970ms
+2015-08-04 15:00:15.705 foodSquare[21050:641889] Resetting plugins due to page load.
+2015-08-04 15:00:15.973 foodSquare[21050:641889] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/4CFEB5F8-9ED4-409A-B85A-FA015517AAFC/foodSquare.app/www/index.html#/home
+2015-08-04 15:12:25.987 foodSquare[21248:647294] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/8369E17D-955F-406E-9718-6D726D2824E0/Library/Cookies/Cookies.binarycookies
+2015-08-04 15:12:26.132 foodSquare[21248:647294] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-04 15:12:26.133 foodSquare[21248:647294] Multi-tasking -> Device: YES, App: YES
+2015-08-04 15:12:26.135 foodSquare[21248:647294] Unlimited access to network resources
+2015-08-04 15:12:26.222 foodSquare[21248:647294] [CDVTimer][keyboard] 0.074983ms
+2015-08-04 15:12:26.235 foodSquare[21248:647294] [CDVTimer][splashscreen] 12.860000ms
+2015-08-04 15:12:26.235 foodSquare[21248:647294] [CDVTimer][TotalPluginStartup] 13.307989ms
+2015-08-04 15:12:26.299 foodSquare[21248:647294] Resetting plugins due to page load.
+2015-08-04 15:12:26.583 foodSquare[21248:647294] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/C46F4FDD-85FA-4229-B2F6-03358D39DFF4/foodSquare.app/www/index.html#/home
+2015-08-04 15:24:50.252 foodSquare[21559:653518] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/4E1A92FB-F650-494F-9583-B4BDECDE5050/Library/Cookies/Cookies.binarycookies
+2015-08-04 15:24:50.364 foodSquare[21559:653518] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-04 15:24:50.365 foodSquare[21559:653518] Multi-tasking -> Device: YES, App: YES
+2015-08-04 15:24:50.367 foodSquare[21559:653518] Unlimited access to network resources
+2015-08-04 15:24:50.450 foodSquare[21559:653518] [CDVTimer][keyboard] 0.073969ms
+2015-08-04 15:24:50.463 foodSquare[21559:653518] [CDVTimer][splashscreen] 12.708962ms
+2015-08-04 15:24:50.463 foodSquare[21559:653518] [CDVTimer][TotalPluginStartup] 13.116002ms
+2015-08-04 15:24:50.521 foodSquare[21559:653518] Resetting plugins due to page load.
+2015-08-04 15:24:50.771 foodSquare[21559:653518] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/3EAFA1AA-FF45-4FB4-BEB0-59B9B932DDFC/foodSquare.app/www/index.html#/home
+2015-08-04 15:26:17.457 foodSquare[21689:655072] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/96CFEBB1-2E35-499A-B9C7-73C219E148E6/Library/Cookies/Cookies.binarycookies
+2015-08-04 15:26:17.595 foodSquare[21689:655072] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-04 15:26:17.595 foodSquare[21689:655072] Multi-tasking -> Device: YES, App: YES
+2015-08-04 15:26:17.597 foodSquare[21689:655072] Unlimited access to network resources
+2015-08-04 15:26:17.686 foodSquare[21689:655072] [CDVTimer][keyboard] 0.047982ms
+2015-08-04 15:26:17.700 foodSquare[21689:655072] [CDVTimer][splashscreen] 14.265954ms
+2015-08-04 15:26:17.700 foodSquare[21689:655072] [CDVTimer][TotalPluginStartup] 14.577985ms
+2015-08-04 15:26:17.762 foodSquare[21689:655072] Resetting plugins due to page load.
+2015-08-04 15:26:18.077 foodSquare[21689:655072] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/6F2AD6DF-D386-49D0-8888-7017C34C3ABC/foodSquare.app/www/index.html#/home
+2015-08-12 17:08:16.368 foodSquare[7902:810071] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/D7DD6DDB-B179-40B6-85BA-2D9BD2A1583F/Library/Cookies/Cookies.binarycookies
+2015-08-12 17:08:16.456 foodSquare[7902:810071] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-12 17:08:16.457 foodSquare[7902:810071] Multi-tasking -> Device: YES, App: YES
+2015-08-12 17:08:16.461 foodSquare[7902:810071] Unlimited access to network resources
+2015-08-12 17:08:16.748 foodSquare[7902:810071] [CDVTimer][keyboard] 0.047982ms
+2015-08-12 17:08:16.848 foodSquare[7902:810071] [CDVTimer][splashscreen] 100.124002ms
+2015-08-12 17:08:16.848 foodSquare[7902:810071] [CDVTimer][TotalPluginStartup] 100.789011ms
+2015-08-12 17:08:16.901 foodSquare[7902:810071] Resetting plugins due to page load.
+2015-08-12 17:08:17.102 foodSquare[7902:810071] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/4D463072-C4A8-40C3-AAB7-DB5CA0A44D54/foodSquare.app/www/index.html#/app/list
+2015-08-22 11:16:38.888 foodSquare[2122:133885] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/D72A3956-FD67-4886-96C7-286542770136/Library/Cookies/Cookies.binarycookies
+2015-08-22 11:16:39.131 foodSquare[2122:133885] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-22 11:16:39.131 foodSquare[2122:133885] Multi-tasking -> Device: YES, App: YES
+2015-08-22 11:16:39.146 foodSquare[2122:133885] Unlimited access to network resources
+2015-08-22 11:16:39.468 foodSquare[2122:133885] [CDVTimer][keyboard] 0.065982ms
+2015-08-22 11:16:39.624 foodSquare[2122:133885] [CDVTimer][splashscreen] 155.570030ms
+2015-08-22 11:16:39.624 foodSquare[2122:133885] [CDVTimer][TotalPluginStartup] 156.274974ms
+2015-08-22 11:16:39.740 foodSquare[2122:133885] Resetting plugins due to page load.
+2015-08-22 11:16:39.947 foodSquare[2122:133885] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/1C5538F7-2AB6-45E6-B78A-F9862069FB4F/foodSquare.app/www/index.html#/login
+2015-08-27 13:11:39.008 foodSquare[4122:421920] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/C38EDAFE-12E0-474F-AD4C-C9DC4D59E7C9/Library/Cookies/Cookies.binarycookies
+2015-08-27 13:11:39.272 foodSquare[4122:421920] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-27 13:11:39.273 foodSquare[4122:421920] Multi-tasking -> Device: YES, App: YES
+2015-08-27 13:11:39.287 foodSquare[4122:421920] Unlimited access to network resources
+2015-08-27 13:11:39.590 foodSquare[4122:421920] [CDVTimer][keyboard] 0.052989ms
+2015-08-27 13:11:39.727 foodSquare[4122:421920] [CDVTimer][splashscreen] 136.478007ms
+2015-08-27 13:11:39.727 foodSquare[4122:421920] [CDVTimer][TotalPluginStartup] 137.134016ms
+2015-08-27 13:11:39.863 foodSquare[4122:421920] Resetting plugins due to page load.
+2015-08-27 13:11:40.106 foodSquare[4122:421920] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/6BE99ED3-C506-423C-8E34-B71C38A4F1C6/foodSquare.app/www/index.html#/login
+2015-08-27 13:29:38.528 foodSquare[4423:432434] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/D13643F0-9C3C-4981-8DAC-239AFEF89D6D/Library/Cookies/Cookies.binarycookies
+2015-08-27 13:29:38.617 foodSquare[4423:432434] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-27 13:29:38.618 foodSquare[4423:432434] Multi-tasking -> Device: YES, App: YES
+2015-08-27 13:29:38.619 foodSquare[4423:432434] Unlimited access to network resources
+2015-08-27 13:29:38.732 foodSquare[4423:432434] [CDVTimer][keyboard] 0.072002ms
+2015-08-27 13:29:38.752 foodSquare[4423:432434] [CDVTimer][splashscreen] 20.087004ms
+2015-08-27 13:29:38.752 foodSquare[4423:432434] [CDVTimer][TotalPluginStartup] 20.548999ms
+2015-08-27 13:29:38.809 foodSquare[4423:432434] Resetting plugins due to page load.
+2015-08-27 13:29:38.966 foodSquare[4423:432434] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/CD175F4D-FE77-4D30-A09B-9DA5A763AE23/foodSquare.app/www/index.html#/login
+2015-08-27 15:02:16.782 foodSquare[5252:483013] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Data/Application/63388930-E05E-4E51-BA8D-3A6565DF3586/Library/Cookies/Cookies.binarycookies
+2015-08-27 15:02:16.931 foodSquare[5252:483013] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-27 15:02:16.932 foodSquare[5252:483013] Multi-tasking -> Device: YES, App: YES
+2015-08-27 15:02:16.942 foodSquare[5252:483013] Unlimited access to network resources
+2015-08-27 15:02:17.070 foodSquare[5252:483013] [CDVTimer][keyboard] 0.051022ms
+2015-08-27 15:02:17.161 foodSquare[5252:483013] [CDVTimer][splashscreen] 89.891970ms
+2015-08-27 15:02:17.161 foodSquare[5252:483013] [CDVTimer][TotalPluginStartup] 90.225995ms
+2015-08-27 15:02:17.272 foodSquare[5252:483013] Resetting plugins due to page load.
+2015-08-27 15:02:17.451 foodSquare[5252:483013] Finished load of: file:///Users/suca/Library/Developer/CoreSimulator/Devices/ACBA194E-D3AB-4DC5-B7FF-041F69FFF31F/data/Containers/Bundle/Application/54459B9B-EC16-49BA-9718-5D32C332C96D/foodSquare.app/www/index.html#/login
+2015-08-27 15:10:09.745 foodSquare[5252:483013] Challenge
+2015-08-27 17:40:35.977 foodSquare[5252:565946] Terminating since there is no system app.
