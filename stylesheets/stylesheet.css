@@ -879,3 +879,27 @@ footer a:hover {
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
 
+.demo-outer{
+  background-image: url('../images/iphone-background.png');
+  background-size: 300px;
+  background-repeat: no-repeat;
+  height: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+.demo-inner{
+  position: relative;
+  padding-left: 7px;
+  top: 81px;
+  width: 286px;
+  height: 490px;
+  /*padding-right: 73px;*/
+}
+.demo-container {
+  /*width: 100%*/
+  /*padding-left: 30%;*/
+}
+.text-align-center {
+  text-align: center;
+}
