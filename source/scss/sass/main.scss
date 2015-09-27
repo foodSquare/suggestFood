@@ -22,13 +22,13 @@ $size-iphone4-height: 480px;
     margin-right: 60%;
     z-index: 10;
     background-image: url(img/restaurant.svg);
-     background-repeat: no-repeat; 
+     background-repeat: no-repeat;
 }
 .foodsquare-login-header {
 	text-align: center;
 	margin-top: 30%;
 	/*height: 250px !important;*/
-	
+
 	@media screen and ( max-height: $size-iphone4-height){
 	    margin-top: 25%;
 	}
@@ -48,7 +48,7 @@ $size-iphone4-height: 480px;
 		color: $color-title;
 		/*margin-top: 50px;*/
 	}
-} 
+}
 .foodsquare-login-background {
 	background: #D84F4F;
 }
@@ -75,10 +75,11 @@ $size-iphone4-height: 480px;
     min-height: 150px;
     & .header-item {
     	text-align: center !important;
+    	height: 130px;
     }
 }
 .foodsquare-menu-body {
-	top: 120px;
+	top: 170px;
 }
 .foodsquare-menu-listitem {
 	& .icon {
@@ -106,7 +107,7 @@ $size-iphone4-height: 480px;
 }
 
 .foodsquare-menu-left-avatar {
-	
+
 }
 .foodsquare-menu-left-body {
 	float: right;
@@ -114,4 +115,16 @@ $size-iphone4-height: 480px;
 }
 .foodsquare-menu-leftside-title {
 
+}
+
+.item-thumbnail-left > img:first-child, .item-thumbnail-left .item-image, .item-thumbnail-left .item-content > img:first-child, .item-thumbnail-left .item-content .item-image {
+			max-width: 36px;
+    	max-height: 36px;
+}
+
+.foodsquare-camera-photo {
+  font-size: 60px;
+  top: 50px;
+  position: absolute;
+  left: 61px;
 }

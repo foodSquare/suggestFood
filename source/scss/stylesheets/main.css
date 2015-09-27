@@ -101,41 +101,56 @@
 /* line 76, ../sass/main.scss */
 .foodsquare-menu-header .header-item {
   text-align: center !important;
+  height: 130px;
 }
 
-/* line 80, ../sass/main.scss */
+/* line 81, ../sass/main.scss */
 .foodsquare-menu-body {
-  top: 120px;
+  top: 170px;
 }
 
-/* line 84, ../sass/main.scss */
+/* line 85, ../sass/main.scss */
 .foodsquare-menu-listitem .icon {
   font-size: 18px;
 }
 
-/* line 89, ../sass/main.scss */
+/* line 90, ../sass/main.scss */
 .foodsquare-menu-infouser .list {
   margin-bottom: 200px;
 }
-/* line 93, ../sass/main.scss */
+/* line 94, ../sass/main.scss */
 .foodsquare-menu-infouser div[name="foodsquare-menu-user-avatar"] {
   font-size: 60px;
   width: 35%;
   padding: 20px;
   float: left;
 }
-/* line 99, ../sass/main.scss */
+/* line 100, ../sass/main.scss */
 .foodsquare-menu-infouser div[name="foodsquare-menu-user-body"] {
   float: right;
   width: 60%;
 }
-/* line 103, ../sass/main.scss */
+/* line 104, ../sass/main.scss */
 .foodsquare-menu-infouser > div {
   height: 100%;
 }
 
-/* line 111, ../sass/main.scss */
+/* line 112, ../sass/main.scss */
 .foodsquare-menu-left-body {
   float: right;
   width: 50%;
+}
+
+/* line 120, ../sass/main.scss */
+.item-thumbnail-left > img:first-child, .item-thumbnail-left .item-image, .item-thumbnail-left .item-content > img:first-child, .item-thumbnail-left .item-content .item-image {
+  max-width: 36px;
+  max-height: 36px;
+}
+
+/* line 125, ../sass/main.scss */
+.foodsquare-camera-photo {
+  font-size: 60px;
+  top: 50px;
+  position: absolute;
+  left: 61px;
 }

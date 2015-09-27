@@ -6,41 +6,40 @@ var sass = require('gulp-sass');
 var minifyCss = require('gulp-minify-css');
 var rename = require('gulp-rename');
 var shell = require('shelljs');
+var watchs = require('gulp-watch');
 
 var files = require('./files.json');
 
+shell.exec('rm -r www/');
 
 var paths = {
  sass: ['./source/scss/sass/**/*.scss']
 };
-
 //gulp.task('default', ['sass']);
 gulp.task('default', ["copy-index", "js", "sass","copy-views", "copy-fonts-ionic", "jsLibs", "cssLibs", "copy-img"], function(){
-  
-});
 
-shell.exec('rm -r www/');
+});
 
 //Watchers
 // watch for HTML changes
-gulp.watch('./source/index.html', ['copy-index']);
-gulp.watch('./source/controllers/**/*.html', function() {
+watchs('source/index.html', ['copy-index']);
+watchs('./source/controllers/**/*.html', function() {
   gulp.run('copy-views');
 });
 // watch files.json
-gulp.watch('./files.json', function() {
+watchs('./files.json', function() {
   gulp.run('default');
 });
-gulp.watch('./gulpfile.js', function() {
+watchs('./gulpfile.js', function() {
   gulp.run('default');
 });
 // watch for JS changes
-gulp.watch('./source/**/*.js', function() {
+watchs('./source/**/*.js', function() {
   //gulp.run('jshint', 'scripts');
   gulp.run('js');
 });
 // watch for CSS changes
-gulp.watch('./source/**/*.scss', function() {
+watchs('./source/**/*.scss', function() {
   shell.exec('compass compile source/scss/');
   gulp.run('concat-css');
 });
@@ -90,7 +89,7 @@ gulp.task('cssLibs', function(){
     .pipe(gulp.dest('./www/libs/'));
 });
 gulp.task('watch', function() {
-  gulp.watch(paths.sass, ['sass']);
+  watchs(paths.sass, ['sass']);
 });
 gulp.task('install', ['git-check'], function() {
   return bower.commands.install()
